@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1167116277627889646}
   m_Layer: 0
-  m_Name: Knight L
-  m_TagString: Untagged
+  m_Name: Knight
+  m_TagString: Knight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
